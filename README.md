@@ -20,7 +20,6 @@ A curated list of resources, tips, and tools to help non-native English speakers
 - [Communities & Forums](#communities--forums)
 - [Technical Interview Prep](#technical-interview-prep)
 - [Contribute](#contribute)
-- [License](#license)
 
 
 
@@ -123,9 +122,3 @@ This list gathers helpful resources specifically geared towards developers aimin
 ## Contribute
 
 Contributions are welcome! Please open an [issue](../../issues) or [pull request](../../pulls) to suggest new resources or improvements. Together, we can make this an even better guide.
-
----
-
-## License
-
-[CC0 1.0 Universal](./LICENSE) – Feel free to use and share!
